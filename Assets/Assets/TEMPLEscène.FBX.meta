@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 5ffc09da39d88b749a4d7af981f0ece5
+timeCreated: 1521102879
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AM94_009_obj_0001
+    100002: AM94_061_obj_0001
+    100004: AM94_061_obj_0002
+    100006: AM94_061_obj_0003
+    100008: AM94_061_obj_0004
+    100010: AM94_061_obj_0005
+    100012: AM94_061_obj_0006
+    100014: AM94_061_obj_0007
+    100016: AM94_061_obj_0008
+    100018: AM94_061_obj_0009
+    100020: Calise
+    100022: "Gravit\xE91"
+    100024: "Gravit\xE92"
+    100026: "Gravit\xE93"
+    100028: Lance002
+    100030: Lance003
+    100032: Lance004
+    100034: Lance005
+    100036: Lance006
+    100038: Lance007
+    100040: Lance008
+    100042: Lance1
+    100044: Obstacle1
+    100046: Obstacle2
+    100048: Parcours
+    100050: Pilier
+    100052: Piliers#
+    100054: Porte1
+    100056: Porte2
+    100058: Porte3
+    100060: Porte4
+    100062: Temple
+    100064: //RootNode
+    100066: Torches
+    100068: Tourniquet
+    400000: AM94_009_obj_0001
+    400002: AM94_061_obj_0001
+    400004: AM94_061_obj_0002
+    400006: AM94_061_obj_0003
+    400008: AM94_061_obj_0004
+    400010: AM94_061_obj_0005
+    400012: AM94_061_obj_0006
+    400014: AM94_061_obj_0007
+    400016: AM94_061_obj_0008
+    400018: AM94_061_obj_0009
+    400020: Calise
+    400022: "Gravit\xE91"
+    400024: "Gravit\xE92"
+    400026: "Gravit\xE93"
+    400028: Lance002
+    400030: Lance003
+    400032: Lance004
+    400034: Lance005
+    400036: Lance006
+    400038: Lance007
+    400040: Lance008
+    400042: Lance1
+    400044: Obstacle1
+    400046: Obstacle2
+    400048: Parcours
+    400050: Pilier
+    400052: Piliers#
+    400054: Porte1
+    400056: Porte2
+    400058: Porte3
+    400060: Porte4
+    400062: Temple
+    400064: //RootNode
+    400066: Torches
+    400068: Tourniquet
+    2100000: No Name
+    2100002: 13 - Default
+    2100004: 02 - Default
+    2100006: Material
+    2100008: 19 - Default
+    2100010: Soustoithaut
+    2100012: calice
+    2100014: Porte
+    2100016: 20 - Default
+    2100018: Pilier_sol
+    2100020: pilierhaut
+    2300000: Calise
+    2300002: "Gravit\xE91"
+    2300004: "Gravit\xE92"
+    2300006: "Gravit\xE93"
+    2300008: Lance002
+    2300010: Lance003
+    2300012: Lance004
+    2300014: Lance005
+    2300016: Lance006
+    2300018: Lance007
+    2300020: Lance008
+    2300022: Lance1
+    2300024: Obstacle1
+    2300026: Obstacle2
+    2300028: Parcours
+    2300030: Pilier
+    2300032: Piliers#
+    2300034: Porte1
+    2300036: Porte2
+    2300038: Porte3
+    2300040: Porte4
+    2300042: Temple
+    2300044: Torches
+    2300046: Tourniquet
+    3300000: Calise
+    3300002: "Gravit\xE91"
+    3300004: "Gravit\xE92"
+    3300006: "Gravit\xE93"
+    3300008: Lance002
+    3300010: Lance003
+    3300012: Lance004
+    3300014: Lance005
+    3300016: Lance006
+    3300018: Lance007
+    3300020: Lance008
+    3300022: Lance1
+    3300024: Obstacle1
+    3300026: Obstacle2
+    3300028: Parcours
+    3300030: Pilier
+    3300032: Piliers#
+    3300034: Porte1
+    3300036: Porte2
+    3300038: Porte3
+    3300040: Porte4
+    3300042: Temple
+    3300044: Torches
+    3300046: Tourniquet
+    4300000: Porte2
+    4300002: Porte3
+    4300004: Porte4
+    4300006: Tourniquet
+    4300008: Piliers#
+    4300010: Torches
+    4300012: Temple
+    4300014: Calise
+    4300016: Porte1
+    4300018: Pilier
+    4300020: Obstacle1
+    4300022: Obstacle2
+    4300024: Parcours
+    4300026: "Gravit\xE91"
+    4300028: "Gravit\xE92"
+    4300030: "Gravit\xE93"
+    4300032: Lance1
+    4300034: Lance002
+    4300036: Lance003
+    4300038: Lance004
+    4300040: Lance005
+    4300042: Lance006
+    4300044: Lance007
+    4300046: Lance008
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
